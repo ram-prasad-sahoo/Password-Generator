@@ -47,6 +47,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 <a href="https://pysimplegui.com/">PySimpleGUI</a>
+<br>
 <a href="https://www.python.org/">Python</a>
 ##  Author
 Ram Prasad Sahoo
