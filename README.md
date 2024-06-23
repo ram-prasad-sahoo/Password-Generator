@@ -4,9 +4,9 @@ A simple password generator using Python and PySimpleGUI. This program allows us
 
 ## Features
 
-- Customizable password generation based on user input.
-- User-friendly graphical interface using PySimpleGUI.
-- Generates a random password that includes uppercase letters, lowercase letters, digits, and symbols.
+- Customizable password generation based on user input.<br>
+- User-friendly graphical interface using PySimpleGUI.<br>
+- Generates a random password that includes uppercase letters, lowercase letters, digits, and symbols.<br>
 
 ## Prerequisites
 
@@ -27,21 +27,24 @@ pip install PySimpleGUI
 ```
 ## Usage
 1.Run the script:
+```bash
 python password_generator.py
-2.Enter the number of uppercase letters, lowercase letters, digits, and symbols you want in your password.
-3.Click the "Generate Password" button.
-4.The generated password will be displayed in the text box.
+```
+<br>
+2.Enter the number of uppercase letters, lowercase letters, digits, and symbols you want in your password.<br>
+3.Click the "Generate Password" button.<br>
+4.The generated password will be displayed in the text box.<br>
 
 
 ## Code Explanation
-Here's a brief explanation of the code:
+Here's a brief explanation of the code:<br>
 
--Import necessary modules: random, string, and PySimpleGUI.
--Set the theme and options for the PySimpleGUI window.
--Define the layout of the window with text inputs for uppercase, lowercase, digits, and symbols.
--Create a window with the specified layout.
--Read user input and generate a password based on the input criteria.
--Display the generated password in a text box.
+-Import necessary modules: random, string, and PySimpleGUI.<br>
+-Set the theme and options for the PySimpleGUI window.<br>
+-Define the layout of the window with text inputs for uppercase, lowercase, digits, and symbols.<br>
+-Create a window with the specified layout.<br>
+-Read user input and generate a password based on the input criteria.<br>
+-Display the generated password in a text box.<br>
 
 
 ## License
