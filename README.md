@@ -20,8 +20,9 @@ A simple password generator using Python and PySimpleGUI. This program allows us
 ```bash
 https://github.com/ram-prasad-sahoo/Password-Generator.git
 cd password-generator
-
+```
 2:Install the required packages:
+```bash
 pip install PySimpleGUI
 ```
 ## Usage
