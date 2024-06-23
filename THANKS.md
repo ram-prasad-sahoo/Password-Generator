@@ -1,6 +1,6 @@
 ## Thanks
 
-This project was developed solely byRam Prasad Sahoo. No contributions from other individuals were made.
+This project was developed solely by Ram Prasad Sahoo. No contributions from other individuals were made.
 
 ## Contact
 
