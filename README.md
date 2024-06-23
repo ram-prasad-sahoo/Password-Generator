@@ -31,7 +31,7 @@ python password_generator.py
 4.The generated password will be displayed in the text box.
 Example
 
-Code Explanation
+## Code Explanation
 Here's a brief explanation of the code:
 
 -Import necessary modules: random, string, and PySimpleGUI.
@@ -42,10 +42,10 @@ Here's a brief explanation of the code:
 -Display the generated password in a text box.
 
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Acknowledgements
+## Acknowledgements
 -PySimpleGUI
 -Python
 Author
