@@ -51,7 +51,8 @@ Here are some screenshots of the program in action:
 <br>
 <img src="Screenshot 2024-06-24 113401.png" alt="Password Generator" />
 <br>
-<img src="Screenshot 2024-06-24 113842.png"alt="Password Generator" />
+<img src="Screenshot 2024-06-24 113842.png" alt="Password Generator" />
+
 
 
 
