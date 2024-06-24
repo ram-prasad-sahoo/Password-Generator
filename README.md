@@ -46,6 +46,14 @@ Here's a brief explanation of the code:<br>
 -Read user input and generate a password based on the input criteria.<br>
 -Display the generated password in a text box.<br>
 
+## ScScreenshots
+Here are some screenshots of the program in action:
+<br>
+<img src="Screenshot 2024-06-24 113401.png" alt="Password Generator" />
+<br>
+<img src="Screenshot 2024-06-24 113842.png"alt="Password Generator" />
+
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
