@@ -19,7 +19,7 @@ A simple password generator using Python and PySimpleGUI. This program allows us
 
 ```bash
 git clone https://github.com/ram-prasad-sahoo/Password-Generator.git
-cd password-generator
+cd Password-Generator
 ```
 2:Install the required packages:
 ```bash
@@ -28,7 +28,7 @@ pip install PySimpleGUI
 ## Usage
 1.Run the script:
 ```bash
-python password_generator.py
+python passwordGenerator.py
 ```
 <br>
 2.Enter the number of uppercase letters, lowercase letters, digits, and symbols you want in your password.<br>
