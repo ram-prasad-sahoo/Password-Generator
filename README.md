@@ -18,7 +18,7 @@ A simple password generator using Python and PySimpleGUI. This program allows us
 1. Clone the repository:
 
 ```bash
-https://github.com/ram-prasad-sahoo/Password-Generator.git
+git clone https://github.com/ram-prasad-sahoo/Password-Generator.git
 cd password-generator
 ```
 2:Install the required packages:
