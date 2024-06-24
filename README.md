@@ -46,7 +46,7 @@ Here's a brief explanation of the code:<br>
 -Read user input and generate a password based on the input criteria.<br>
 -Display the generated password in a text box.<br>
 
-## ScScreenshots
+## Screenshots
 Here are some screenshots of the program in action:
 <br>
 <img src="Screenshot 2024-06-24 113401.png" alt="Password Generator" />
